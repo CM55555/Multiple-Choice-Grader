@@ -5,8 +5,8 @@ I wrote this for grading bubblesheets for practice Physics GRE exams, but it wil
 
 Example:
 <p float="left">
-  <img src="https://github.com/CM55555/Multiple-Choice-Grader/blob/main/Examples/Example%205.jpg?raw=true" width="45%" />
-  <img src="https://github.com/CM55555/Multiple-Choice-Grader/blob/main/Examples/Sample%20Output/example%205%20GRADED.png?raw=true" width="45%" /> 
+  <img src="https://github.com/CM55555/Multiple-Choice-Grader/blob/main/Examples/Example%205.jpg?raw=true" width="48%" />
+  <img src="https://github.com/CM55555/Multiple-Choice-Grader/blob/main/Examples/Sample%20Output/example%205%20GRADED.png?raw=true" width="48%" /> 
 </p>
 
 
