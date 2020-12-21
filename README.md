@@ -2,8 +2,8 @@
 A basic grading system for a 100-question multiple choice bubble sheet, written in Python.
 
 <p float="left">
-  <img src="https://github.com/CM55555/Multiple-Choice-Grader/blob/main/Examples/Example%205.jpg?raw=true" width="50%" />
-  <img src="https://github.com/CM55555/Multiple-Choice-Grader/blob/main/Examples/Sample%20Output/example%205%20GRADED.png?raw=true" width="50%" /> 
+  <img src="https://github.com/CM55555/Multiple-Choice-Grader/blob/main/Examples/Example%205.jpg?raw=true" width="45%" />
+  <img src="https://github.com/CM55555/Multiple-Choice-Grader/blob/main/Examples/Sample%20Output/example%205%20GRADED.png?raw=true" width="45%" /> 
 </p>
 ![Example 6](https://github.com/CM55555/Multiple-Choice-Grader/blob/main/Examples/Example%205.jpg?raw=true)
 
