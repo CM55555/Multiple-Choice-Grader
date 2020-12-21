@@ -3,6 +3,12 @@ A basic grading system for a 100-question multiple choice bubble sheet, written 
 
 I wrote this for grading bubblesheets for practice Physics GRE exams, but it will work for any 100-question multiple choice bubble sheet similar to printable one provided ("BOLD 100 Question Bordered Bubble Sheet Printable.pdf"). More efficient borders may also work, though a thicker one seems to have easily-recognizable boundaries.
 
+
+Requirements:
+* [OpenCV](https://pypi.org/project/opencv-python/)
+* [imutils](https://github.com/jrosebr1/imutils)
+
+
 Additionally, there are a number of known issues and improvements to make, however I've set this project aside for the time being. I figure physical bubble sheets will be less popular until COVID-19 restrictions can be lifted.
 
 Common Issues and Future Plans:
