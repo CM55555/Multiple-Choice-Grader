@@ -1,7 +1,7 @@
 # Multiple Choice Grader
 A basic grading system for a 100-question multiple choice bubble sheet, written in Python.
 
-I wrote this for grading bubblesheets for practice Physics GRE exams, but it will work for any 100-question multiple choice bubble sheet similar to printable one provided ("BOLD 100 Question Bordered Bubble Sheet Printable.pdf"). More efficient borders may also work, though a thicker one seems to have more recognizable boundaries.
+I wrote this to grade bubblesheets for practice Physics GRE exams, but it will work for any 100-question multiple choice bubble sheet similar to printable one provided ("BOLD 100 Question Bordered Bubble Sheet Printable.pdf"). More efficient borders may also work, though a thicker one seems to have more recognizable boundaries.
 
 Example:
 <p float="left">
